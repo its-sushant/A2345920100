@@ -1,6 +1,6 @@
 ## Task 1 output images
 
-
+![Alt text](<static/Screenshot from 2023-08-18 19-58-55.png>)
 
 ## Task 2 output images
 
