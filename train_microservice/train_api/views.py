@@ -1,6 +1,7 @@
 import requests
 from django.http import JsonResponse
 from rest_framework.decorators import api_view
+from .models import Train  # Import the Train model
 
 @api_view(['GET'])
 def get_trains(request):
