@@ -1,7 +1,6 @@
 ## Task 1 output images
 
-Actually i am not able get token using auth api call. Please look the below output images.
-![Alt text](<static/Screenshot from 2023-08-18 19-42-24.png>)
+
 
 ## Task 2 output images
 
